@@ -1,4 +1,4 @@
-module github.com/jeevansegu/Go_Projects
+module github.com/jeevansegu/Go_Projects/BookManagementSystem
 
 go 1.23.2
 
